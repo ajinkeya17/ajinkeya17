@@ -9,7 +9,7 @@
 
 👯 I am looking to collaborate on Data Science and Machine Learning projects.
 
-💬 My aim is to build industry revolutionizing data science solutions.
+💬 My aim is to build industry revolutionizing Data Science solutions.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajinkeya17)](https://github.com/anuraghazra/github-readme-stats)
 
