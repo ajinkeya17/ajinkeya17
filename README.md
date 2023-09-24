@@ -5,7 +5,7 @@
 
 🌱 My name is Ajinkeya Chitrey. I am currently pursuing my M.S. in Electrical Engineering (Data-Driven Analysis and Computation track) from Columbia University with coursework and research focused on Data Science and Machine Learning. 
 
-✨ Over the Summer 2023, I worked as a Data Science Intern at Wartsila, a global legacy organization in energy production. I contributed to multiple projects across Energy Demand Forecasting, Energy Bidding Price Forecast, and building ETL pipelines on GCP to accumulate energy data from global sensors into a data warehouse. Prior to my Masters, I have previously worked with Quantiphi Analytics for ~2 years as an Analyst (Data Science) in the AWS practice. I contributed to multiple projects spanning domains of time series forecasting, computer vision, predictive modeling and data warehousing on the Cloud.
+✨ Over the Summer of 2023, I worked as a Data Science Intern at Wartsila, a global legacy organization in energy production. I contributed to multiple projects across Energy Demand Forecasting, Energy Bidding Price Forecast, and building ETL pipelines on GCP to accumulate energy data from global sensors into a data warehouse. Prior to my Masters, I have previously worked with Quantiphi Analytics for ~2 years as an Analyst (Data Science) in the AWS practice. I contributed to multiple projects spanning domains of time series forecasting, computer vision, predictive modeling and data warehousing on the Cloud.
 
 👯 I am looking to collaborate on Data Science and Machine Learning projects.
 
